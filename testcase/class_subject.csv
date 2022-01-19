@@ -1,0 +1,17 @@
+id,class_id,subject
+0,class_1,mathematics
+1,class_1,english
+2,class_1,science
+3,class_1,economics
+4,class_2,mathematics
+5,class_2,english
+6,class_2,science
+7,class_2,economics
+8,class_3,mathematics
+9,class_3,english
+10,class_3,science
+11,class_3,economics
+12,class_4,mathematics
+13,class_4,english
+14,class_4,science
+15,class_4,economics
